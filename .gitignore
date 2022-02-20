@@ -1,0 +1,9 @@
+node_modules
+*.env
+
+# credentials & token files
+credentials.json
+token.json
+
+# DEST_DIR
+/books_highlights
